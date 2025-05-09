@@ -1,6 +1,8 @@
-# Starlight Starter Kit: Basics
+# Astronomy 101 by Abhishek U and Farzal Nishan
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+# Built using a template called Starlight I guess. Details below.
+
+# Starlight Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template starlight
