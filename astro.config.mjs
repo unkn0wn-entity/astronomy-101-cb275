@@ -7,17 +7,17 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Astronomy 101',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/unkn0wn-entity/astronomy-101-cb275/' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Introduction',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Unedited Next Page', slug: 'guides/example' },
+						{ label: 'The Index', slug: 'guides/example' },
 					],
 				},
 				{
-					label: 'Astronomy 101 Introduction',
+					label: 'Acknowledgements',
 					autogenerate: { directory: 'reference' },
 				},
 			],
