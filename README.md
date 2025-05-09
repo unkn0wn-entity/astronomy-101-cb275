@@ -1,8 +1,9 @@
-# Astronomy 101 by Abhishek U and Farzal Nishan
+### Astronomy 101 by Abhishek U and Farzal Nishan
+---
 
-# Built using a template called Starlight I guess. Details below.
+##### Built using a template called Starlight I guess. Details below.
 
-# Starlight Starter Kit: Basics
+## Starlight Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template starlight
