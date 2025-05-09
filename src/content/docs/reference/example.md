@@ -1,11 +1,26 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: Acknowledgements
+description: Page expressing gratefulness.
 ---
+The Unknown Team, the creators of this site,
+- Farzal Nishan MJ, UAE
+- Abhishek U, India
+express our deepest thanks to the following entities for making this site come true.
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
-## Further reading
+## God
+- for everything,
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+## Astro
+- for this template,
+
+## Mr. Zayan Mohammad, UAE
+
+- for inspiring us to create this site,
+
+## Netlify
+- for helping us deploy this site,
+and
+
+## GitHub
+- for providing git services.
