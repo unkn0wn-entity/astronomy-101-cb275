@@ -23,4 +23,4 @@ express our deepest thanks to the following entities for making this site come t
 and
 
 ## GitHub
-- for providing git services.
+- for providing Git services.
